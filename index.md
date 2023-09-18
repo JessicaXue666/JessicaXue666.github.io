@@ -3,7 +3,7 @@
 **Hisense Group**<br>
 **Email: xueqiaoyunzbb@163.com**
 
-# Educations
+# Education
 >**University of Glasgow(QS Ranking 81), Glasgow, UK**  	                  , Jan 2021 - Apr 2022
 - Master of Science in Data Analysis
 - GPA (Overall): 3.7/4.0
@@ -28,34 +28,34 @@
 - CN202310960242.4  A Control Method for Cloud Server and Air Conditioning System (Pending) Davie Ruan, Tiejun Sun, Zhaoting Ren, Qingming Liu, Dongyao Li, Qiaoyun Xue. This invention discloses a control method for cloud servers and air conditioning systems addressing the issue of low accuracy in predicting user settings using the RNN model.
 
 # Research Experiences
->**Heart Disease Prediction Method based on Neural Network**
-> University of Southern California <be>
-> Research Assistant, Advisor: Professor Victor Adamchik                                                                                    Aug2022 - Nov 2022                                                                
+>**Heart Disease Prediction Method based on Neural Network** , University of Southern California,  Aug2022 - Nov 2022   
+> Research Assistant, Advisor: Professor Victor Adamchik                                                                                                                                                
 - Aimed to validate deep learning's potential in medical diagnostics and pave the way for practical applications. 
 - Designed a multilayer neural network to make heart disease diagnoses. Preprocessed the dataset for feature extraction.
 - Achieved 75% accuracy and demonstrated the successful utilization of neural networks, advancing medical diagnostic capabilities with respect to various heart diseases.
 
->**User Behavior Learning Algorithm for Residential Multi-Split Central AC**                                      China University of Petroleum<br>                                                                    Research Assistant, Advisor: Professor Leiquan Wang	                   Oct 2022 - Aug 2023
+>**User Behavior Learning Algorithm for Residential Multi-Split Central AC** , China University of Petroleum, Oct 2022 - Aug 2023 <br>
+>Research Assistant, Advisor: Professor Leiquan Wang	                   
 - Automated AC adjustments, enhancing comfortability by modelling users’ preferences.
 - Researched user behaviour in the field of smart central air conditioning by leveraging big data and machine learning techniques
 - Constructed user habit parameters using indoor and outdoor data, accurately predicting temperature, fan speed, mode preferences and AC switch time. 
 - Forecasted scenario entry and exit timing successfully with an error of less than fifteen minutes, (error less than 15 mins), achieving a prediction accuracy of over 93% for temperature and over 98% for fan speed and mode settings.
 
 # Work Experiences
-**Hisense Home Appliances Group Co., Ltd., Smart-technology Department**								  Qingdao, China
-Big Data Engineer																                      Aug 2021 - Present
+>**Hisense Home Appliances Group Co., Ltd., Smart-technology Department**, Qingdao, China, Aug 2021 - Present<br>
+>Big Data Engineer																                      
 - Offered data-driven support for product development and operations via analyzing and extracting insights from extensive user behavioral data with machine learning techniques.
 - Employed Python to conduct data mining and modeling, leveraging data systems such as SQL, Elastic search, and cloud platforms to execute data query and processing tasks.
 - Leveraged Python, R, and Excel to create sophisticated data visualizations, ensuring the clear comprehension of intricate insights by non-technical stakeholders and facilitating informed, data-backed decision-making.
 
-**Qingdao Inter-Credit Services Pte Co., Ltd., Internal Control Center**								           Qingdao, China 
-Data Analysis Specialist                                                                                                                                          Mar 2019 - Oct 2020
+>**Qingdao Inter-Credit Services Pte Co., Ltd., Internal Control Center**, Qingdao, China, Mar 2019 - Oct 2020 <br>
+Data Analysis Specialist                                                                                                                                          
 - Conducted data analysis with processing tools, such as numpy, pandas, and matplotlib in Python alongside SQL databases and Excel.
 - Maintained weekly and monthly reports: extracted relevant data from the corporate data systems or SQL databases, performed statistical modeling and multi-dimensional comparative analyses.
 - Trained robust data analysis and processing skills, risk assessment and control capability, modeling abilities, and enhanced teamwork and problem-solving skills.
 
-**Shandong Desheng Certified Public Accountants Firm Co., Ltd., auditing department**				  Qingdao, China
-Audit Assistant																	         May 2018 - Mar 2019
+>**Shandong Desheng Certified Public Accountants Firm Co., Ltd., auditing department**, Qingdao, China, May 2018 - Mar 2019<br>
+Audit Assistant																	         
 - Led the collection of audit materials, carrying out spot checks on vouchers and compiling audit reports
 - Participated in external audits, including Sunac China Holdings Limited, Adidas's big contract factory, and Qingdao West Coast Cultural Tourism Group Co., Ltd.
 - Honed my meticulousness, ability to work in a high-pressure envioronment, sensitivity to data, and auditing skills.
