@@ -3,17 +3,19 @@
 **Hisense Group**<br>
 **Email: xueqiaoyunzbb@163.com**
 
+I am looking for a doctoral opportunity in **machine learning**, **the Internet of Things (IoT)** and **fintech**. I am a person who enjoys research and has a spirit of exploration. When I discover something new in my research, I feel very excited. The articles I previously published were independently completed by myself. During my time at Hisense, I worked as the only big data engineer in the department, conducting independent research and coming up with ideas to complete the User Data Dashboard project. I have self-motivation and problem-solving abilities. During my university years, I self-studied and passed multiple ACCA exams, always committed to learning and continuously improving myself. I believe it does not matter how slowly you go as long as you do not stop.
+
 # Education
 >**University of Glasgow(QS Ranking 81), Glasgow, UK**  	                  , Jan 2021 - Apr 2022
 - Master of Science in Data Analysis
-- GPA (Overall): 3.7/4.0
+- GPA (Overall): **3.7/4.0**
 - Core Coursework: Bayesian Statistics (A), Statistical Inference (A), Probability (A), Big Data Analytics (A) 
 
 >**Yunnan University of Finance and Economics, Kunming, China**  	                  ,  Sep 2014 - Sep 2018
 - Bachelor of Science in Mathematics
-- Ranking: Top 5%
+- Ranking: **Top 5%**
 - Core Coursework: Mathematical Statistics (86/100), Numerical Analysis (89/100), Applied Regression Analysis (81/100)
-- Passed ACCA (Association of Chartered Certified Accountants) 6/13 (Business and Technology, Management Accounting, Financial Accounting, Corporate and Business Law, Financial Management, Performance Management)
+- Passed ACCA (Association of Chartered Certified Accountants) 6/13 covered Business and Technology, Management Accounting, Financial Accounting, Corporate and Business Law, Financial Management, Performance Management
 
 # Publications & Patents
 >**Publications**
