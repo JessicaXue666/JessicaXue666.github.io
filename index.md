@@ -3,7 +3,7 @@
 **Hisense Group**<br>
 **Email: xueqiaoyunzbb@163.com**
 
-I am looking for a doctoral opportunity in **machine learning**, **the Internet of Things (IoT)** and **fintech**. I am a person who enjoys research and has a spirit of exploration. When I discover something new in my research, I feel very excited. The articles I previously published were independently completed by myself. During my time at Hisense, I worked as the only big data engineer in the department, conducting independent research and coming up with ideas to complete the User Data Dashboard project. I have self-motivation and problem-solving abilities. During my university years, I self-studied and passed multiple ACCA exams, always committed to learning and continuously improving myself. I believe it does not matter how slowly you go as long as you do not stop.
+I am looking for a doctoral opportunity in **machine learning**, **the Internet of Things (IoT)** and **FinTech**. I am a person who enjoys research and has a spirit of exploration. When I discover something new in my research, I feel very excited. The articles I previously published were independently completed by myself. During my time at Hisense, I worked as the only big data engineer in the department, conducting independent research and coming up with ideas to complete the User Data Dashboard project. I have self-motivation and problem-solving abilities. During my university years, I self-studied and passed multiple ACCA exams, always committed to learning and continuously improving myself. I believe it does not matter how slowly you go as long as you do not stop.
 
 # Education
 >**University of Glasgow(QS Ranking 81), Glasgow, UK**  	                  , Jan 2021 - Apr 2022
