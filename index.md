@@ -2,10 +2,10 @@
 title: Qiaoyun XUE's homepage
 ---
 
-<img src="../asset/Qiaoyun_XUE_formal.jpg" alt="Qiaoyun Xue" width="300">
+<img src="asset/Qiaoyun_Xue_formal.jpg" alt="Qiaoyun Xue" width="300">
 
 # Qiaoyun XUE 
-[[Curriculum Vitae]](../asset/_CV.pdf)
+[[Curriculum Vitae]](asset/_CV.pdf)
 
 Email: [xueqiaoyunzbb@163.com](mailto:xueqiaoyunzbb@163.com) 
 
