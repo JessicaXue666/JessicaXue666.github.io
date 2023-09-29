@@ -9,30 +9,11 @@ title: Qiaoyun XUE's homepage
 
 Email: [xueqiaoyunzbb@163.com](mailto:xueqiaoyunzbb@163.com) 
 
-**Assistant Professor**, Department of Electrical and Computer Engineering, Villanova University 
-
-**Director**, [Dependable, Efficient, and Intelligent Computing Lab (DETAIL)](https://vu-detail.github.io)
+**Big Data Engineer**, Department of Smart-technology, Hisense Group 
 
 
 ## Short Bio
-Xun Jiao is an assistant professor in ECE department of Villanova University. He leads the [Dependable, Efficient, and Intelligent Computing Lab (DETAIL)](https://vu-detail.github.io). He has been a visiting scientist of Meta/Facebook, and a visiting student researcher of NXP Semiconductors. He obtained his Ph.D. degree from UC San Diego in 2018. He earned a dual B.S. degree from the Joint Program of Queen Mary University of London and Beijing University of Posts and Telecommunications in 2013.
-
-His research interests include robust/resilient computing, approximate computing, AI/machine learning. He received 6 paper awards/nominations in international conferences such as DATE and EMSOFT. He published 60+ papers in international conferences such as DAC, ICCAD, DATE, and journals such as TCAD, TC, and TNNLS. 
-
-He is an associate editor of IEEE Trans on CAD, a lead guest editor of Frontiers in Neuroscience, a TPC member of DAC, ICCAD, ASP-DAC, GLSVLSI, LCTES, and a panelist of NSF/DoE.
-He served as the general chair of DACPS workshop 2023, and web chair for ESWEEK 2023. 
-
-His research is sponsored by NSF, NIH, L3Harris, and Nvidia.  
-
-He is the recipient of 2022 IEEE "Young Engineer of the Year Award (Philadelphia Section)". 
-
-# Qiaoyun Xue's homepage
-## Qiaoyun Xue
-**Big Data Engineer**<br>
-**Hisense Group**<br>
-**Email: xueqiaoyunzbb@163.com**
-
-I am looking for a doctoral opportunity in **machine learning**, **the Internet of Things (IoT)** and **FinTech**. I am a person who enjoys research and has a spirit of exploration. When I discover something new in my research, I feel very excited. The articles I previously published were independently completed by myself. During my time at Hisense, I worked as the only big data engineer in the department, conducting independent research and coming up with ideas to complete the User Data Dashboard project. I have self-motivation and problem-solving abilities. During my university years, I self-studied and passed multiple ACCA exams, always committed to learning and continuously improving myself. I believe it does not matter how slowly you go as long as you do not stop.
+I am looking for a doctoral opportunity in **machine learning**, **the Internet of Things (IoT)** and **FinTech**. I am a person who enjoys research and has a spirit of exploration. When I discover something new in my research, I feel very excited. The articles I previously published were independently completed by myself. During my time at Hisense Group, I worked as the only data engineer in the department, conducting independent research and coming up with ideas to complete the User Data Dashboard project. I have self-motivation and problem-solving abilities. During my university years, I self-studied and passed multiple ACCA exams, always committed to learning and continuously improving myself. I believe it does not matter how slowly you go as long as you do not stop.
 
 # Education
 >**University of Glasgow(QS Ranking 81), Glasgow, UK**  	                  , Jan 2021 - Apr 2022
