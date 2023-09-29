@@ -15,7 +15,7 @@ Email: [xueqiaoyunzbb@163.com](mailto:xueqiaoyunzbb@163.com)
 ## Short Bio
 I am looking for a doctoral opportunity in **machine learning**, **the Internet of Things (IoT)** and **FinTech**. I am a person who enjoys research and has a spirit of exploration. When I discover something new in my research, I feel very excited. The articles I previously published were independently completed by myself. During my time at Hisense Group, I worked as the only data engineer in the department, conducting independent research and coming up with ideas to complete the User Data Dashboard project. I have self-motivation and problem-solving abilities. During my university years, I self-studied and passed multiple ACCA exams, always committed to learning and continuously improving myself. I believe it does not matter how slowly you go as long as you do not stop.
 
-# Education
+## Education
 >**University of Glasgow(QS Ranking 81), Glasgow, UK**  	                  , Jan 2021 - Apr 2022
 - Master of Science in Data Analysis
 - GPA (Overall): **3.7/4.0**
@@ -27,7 +27,7 @@ I am looking for a doctoral opportunity in **machine learning**, **the Internet 
 - Core Coursework: Mathematical Statistics (86/100), Numerical Analysis (89/100), Applied Regression Analysis (81/100)
 - Passed ACCA (Association of Chartered Certified Accountants) 6/13 covered Business and Technology, Management Accounting, Financial Accounting, Corporate and Business Law, Financial Management, Performance Management
 
-# Publications & Patents
+## Publications & Patents
 >**Publications**
 - Qiaoyun Xue. Research on a Heart Disease Prediction Method based on **Neural Network** (accepted by [AICBD 2023](http://www.aicbd.org/))
 - Qiaoyun Xue, Davie Ruan, Guoxuan Zhang. Comparison of different machine learning algorithms for predicting air-conditioning operation modes  (in preparation)
@@ -39,7 +39,7 @@ I am looking for a doctoral opportunity in **machine learning**, **the Internet 
 - CN202310623117.4  An air conditioning smart control system and its control method (Pending) Guoxuan Zhang, Zhaopeng Sun, Qiaoyun Xue. Achieved the human-sensing function by UWB pulse between base station, indoor unit and the terminal.
 - CN202310960242.4  A Control Method for Cloud Server and Air Conditioning System (Pending) Davie Ruan, Tiejun Sun, Zhaoting Ren, Qingming Liu, Dongyao Li, Qiaoyun Xue. This invention discloses a control method for cloud servers and air conditioning systems addressing the issue of low accuracy in predicting user settings using the RNN model.
 
-# Research Experiences
+## Research Experiences
 >**Heart Disease Prediction Method based on Neural Network** , University of Southern California,  Aug2022 - Nov 2022   
 > Research Assistant, Advisor: Professor Victor Adamchik                                                                                                                                                
 - Aimed to validate deep learning's potential in medical diagnostics and pave the way for practical applications. 
@@ -53,7 +53,7 @@ I am looking for a doctoral opportunity in **machine learning**, **the Internet 
 - Constructed user habit parameters using indoor and outdoor data, accurately predicting temperature, fan speed, mode preferences and AC switch time. 
 - Forecasted scenario entry and exit timing successfully with an error of less than fifteen minutes, (error less than 15 mins), achieving a prediction accuracy of over 93% for temperature and over 98% for fan speed and mode settings.
 
-# Work Experiences
+## Work Experiences
 >**Hisense Home Appliances Group Co., Ltd., Smart-technology Department**, Qingdao, China, Aug 2021 - Present<br>
 >Big Data Engineer																                      
 - Offered data-driven support for product development and operations via analyzing and extracting insights from extensive user behavioral data with machine learning techniques.
@@ -72,13 +72,13 @@ Audit Assistant
 - Participated in external audits, including Sunac China Holdings Limited, Adidas's big contract factory, and Qingdao West Coast Cultural Tourism Group Co., Ltd.
 - Honed my meticulousness, ability to work in a high-pressure envioronment, sensitivity to data, and auditing skills.
 
-# Awards & Activities
+## Awards & Activities
 - Second Prize, Southwest Division of the National Market Research Competition in Statistics.                                         
 - Passed six courses in the ACCA                                                                       
 - Elected as the only class representative serving 85 students during postgraduate studies                                            
 - Elected president of the Hongyu Badminton Club during my undergraduate studies
 
-# Skills & Languages
+## Skills & Languages
 - Programming languages: Python/SQL/R/KQL/Java/ES/MATLAB/Unix/VBA/LATEX
 - Languages: Mandarin (Native); English (Fluent)
 - Other skills: Driving/Microsoft Office/Photoshop/VUE/X-mind/Visio
