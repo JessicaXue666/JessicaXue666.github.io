@@ -29,11 +29,11 @@ I am looking for a doctoral opportunity in **machine learning**, **Internet of T
 
 ## Publications & Patents
 >**Publications**
-- Qiaoyun Xue. Research on a Heart Disease Prediction Method based on **Neural Network** [PDF](asset/Publication-20230929/Research on Heart Disease Prediction Method based on Neural Network-Acceped by AICBD 2023.pdf)(accepted by [AICBD 2023](http://www.aicbd.org/))
+- Qiaoyun Xue. Research on a Heart Disease Prediction Method based on **Neural Network**(accepted by [AICBD 2023](http://www.aicbd.org/)) [PDF](asset/Publication-20230929/Research on Heart Disease Prediction Method based on Neural Network-Acceped by AICBD 2023.pdf) 
 - Qiaoyun Xue, Davie Ruan, Guoxuan Zhang. Comparison of different machine learning algorithms for predicting air-conditioning operation modes  (in preparation)
 
 >**Patents**
-- CN202310936682.6 An air conditioning control system and its control method (Pending) Qiaoyun Xue, Davie Ruan, Zhaoting Ren et al. A machine learning based controller method to realize automatic entering and exiting functional scenarios, providing users with a more intelligent and comfortable home experience. 
+- CN202310936682.6 An air conditioning control system and its control method (Pending) Qiaoyun Xue, Davie Ruan, Zhaoting Ren et al. A machine learning based controller method to realize automatic entering and exiting functional scenarios, providing users with a more intelligent and comfortable home experience. [PDF](asset/Publication-20230929/)
 - CN202211679156.8  A positioning system and positioning method for an air conditioning device (Under Examination) Guoxuan Zhang, Qiaoyun Xue. A method to obtain the relative position information of the indoor unit, outdoor unit, and central controller of an on-site air conditioning system by using Bluetooth module RSSI ranging, triangulation positioning, and DBSCAN clustering algorithm.
 - CN202310962564.2  A Control Method for a Central Controller and Air Conditioning System (Pending) Davie Ruan, Qiaoyun Xue, Zhaoting Ren et al. The present invention offers a control method for a central controller and a smart air conditioning system, addressing the issue of manual settings and enhancing users' intelligent and convenient experiences.
 - CN202310623117.4  An air conditioning smart control system and its control method (Pending) Guoxuan Zhang, Zhaopeng Sun, Qiaoyun Xue. Achieved the human-sensing function by UWB pulse between base station, indoor unit and the terminal.
