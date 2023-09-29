@@ -13,7 +13,7 @@ Email: [xueqiaoyunzbb@163.com](mailto:xueqiaoyunzbb@163.com)
 
 
 ## Short Bio
-I am looking for a doctoral opportunity in **machine learning**, **the Internet of Things (IoT)** and **FinTech**. I am a person who enjoys research and has a spirit of exploration. When I discover something new in my research, I feel very excited. The articles I previously published were independently completed by myself. During my time at Hisense Group, I worked as the only data engineer in the department, conducting independent research and coming up with ideas to complete the User Data Dashboard project. I have self-motivation and problem-solving abilities. During my university years, I self-studied and passed multiple ACCA exams, always committed to learning and continuously improving myself. I believe it does not matter how slowly you go as long as you do not stop.
+I am looking for a doctoral opportunity in **machine learning**, **Internet of Things (IoT)** and **FinTech**. I am a person who enjoys research and has a spirit of exploration. When I discover something new in my research, I feel very excited. The articles I previously published were independently completed by myself. During my time at Hisense Group, I worked as the only data engineer in the department, conducting independent research and coming up with ideas to complete the User Data Dashboard project. I have self-motivation and problem-solving abilities. During my university years, I self-studied and passed multiple ACCA exams, always committed to learning and continuously improving myself. I believe it does not matter how slowly you go as long as you do not stop.
 
 ## Education
 >**University of Glasgow(QS Ranking 81), Glasgow, UK**  	                  , Jan 2021 - Apr 2022
@@ -29,7 +29,7 @@ I am looking for a doctoral opportunity in **machine learning**, **the Internet 
 
 ## Publications & Patents
 >**Publications**
-- Qiaoyun Xue. Research on a Heart Disease Prediction Method based on **Neural Network** (accepted by [AICBD 2023](http://www.aicbd.org/))
+- Qiaoyun Xue. Research on a Heart Disease Prediction Method based on **Neural Network** [PDF](asset/Publication-20230929/Research on Heart Disease Prediction Method based on Neural Network-Acceped by AICBD 2023.pdf)(accepted by [AICBD 2023](http://www.aicbd.org/))
 - Qiaoyun Xue, Davie Ruan, Guoxuan Zhang. Comparison of different machine learning algorithms for predicting air-conditioning operation modes  (in preparation)
 
 >**Patents**
