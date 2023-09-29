@@ -7,7 +7,7 @@ title: Qiaoyun XUE's homepage
 # Qiaoyun XUE 
 [[Curriculum Vitae]](../asset/_CV.pdf)
 
-Email: [xun.jiao@villanova.edu](mailto:xun.jiao@villanova.edu) 
+Email: [xueqiaoyunzbb@163.com](mailto:xueqiaoyunzbb@163.com) 
 
 **Assistant Professor**, Department of Electrical and Computer Engineering, Villanova University 
 
