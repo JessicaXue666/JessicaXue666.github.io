@@ -2,7 +2,7 @@
 title: Qiaoyun XUE's homepage
 ---
 
-<img src="asset/Qiaoyun_Xue_formal.jpg" alt="Qiaoyun Xue" width="300">
+<img src="asset/Qiaoyun-formal2.jpg" alt="Qiaoyun Xue" width="300">
 
 # Qiaoyun XUE 
 [[Curriculum Vitae]](asset/CV-qiaoyun.pdf)
