@@ -84,8 +84,8 @@ Audit Assistant
 - Programming languages: Python/SQL/R/KQL/Java/ES/MATLAB/Unix/VBA/LATEX
 - Languages: Mandarin (Native); English (Fluent)
 - Other skills: Driving/Microsoft Office/Photoshop/VUE/X-mind/Visio
-- Hobbies: Swimming/Badminton/Singing/Dancing
-- Standard English Test Scores: PTE Overall 64 (Speaking 72, Writing 65, Reading 62, Listening 61) / IELTS Overall 6 (Speaking 6, Writing 6, Reading 6, Listening 6) 
+- Standard English Test Scores: PTE Overall 64 (Speaking 72, Writing 65, Reading 62, Listening 61) / IELTS Overall 6 (Speaking 6, Writing 6, Reading 6, Listening 6)
+- Hobbies: Swimming(best record: 100m in 2 mins)/Badminton (Participated in the provincial badminton competition)/Singing/Dancing
 
 
 
