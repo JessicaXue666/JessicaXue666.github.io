@@ -8,7 +8,8 @@ title: Qiaoyun XUE's homepage
 [[Curriculum Vitae]](asset/CV-qiaoyun.pdf)
 
 Email: [xueqiaoyunzbb@163.com](mailto:xueqiaoyunzbb@163.com) 
-<img src="asset/zhihu.png" alt="zhihu" width="30">
+
+<a href="https://www.zhihu.com/people/shen-ji-xiao-cai-ji/posts"><img src="asset/zhihu.png" alt="zhihu" width="20"></a>
 
 **Big Data Engineer**, Department of Smart-technology, Hisense Group 
 
