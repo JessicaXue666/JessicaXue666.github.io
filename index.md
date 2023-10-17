@@ -16,7 +16,7 @@ Email: [xueqiaoyunzbb@163.com](mailto:xueqiaoyunzbb@163.com)
 
 
 ## Short Bio
-I am looking for a doctoral opportunity in **machine learning**, **Internet of Things (IoT)** and **FinTech**. I am a person who enjoys research and has a spirit of exploration. When I discover something new in my research, I feel very excited. The articles I previously published were independently completed by myself. During my time at Hisense Group, I worked as the only data engineer in the department, conducting independent research and coming up with ideas to complete the User Data Dashboard project. I have self-motivation and problem-solving abilities. During my university years, I self-studied and passed multiple ACCA exams, always committed to learning and continuously improving myself. I believe it does not matter how slowly you go as long as you do not stop.
+I am looking for a doctoral opportunity in **machine learning**,**Deep learning**,**Internet of Things (IoT)** and **FinTech**. I am a person who enjoys research and has a spirit of exploration. When I discover something new in my research, I feel really excited. I have self-motivation and problem-solving abilities. During my university years, I self-studied and passed multiple ACCA exams, always committed to learning and continuously improving myself. 
 
 ## Education
 >**University of Glasgow(QS Ranking 81), Glasgow, UK**  	                  , Jan 2021 - Apr 2022
@@ -60,9 +60,10 @@ I am looking for a doctoral opportunity in **machine learning**, **Internet of T
 
 ## Work Experiences
 >**Hisense Home Appliances Group Co., Ltd., Smart-technology Department**, Qingdao, China, Aug 2021 - Present<br>
->Big Data Engineer																                      
-- Offered data-driven support for product development and operations via analyzing and extracting insights from extensive user behavioral data with machine learning techniques.
-- Employed Python to conduct data mining and modeling, leveraging data systems such as SQL, Elastic search, and cloud platforms to execute data query and processing tasks.
+>Big Data Engineer
+- Using Pytorch and TensorFlow to construct a neural network model to develop a smart air-conditioner							                      
+- Offered data-driven support for product development and operations via analyzing and extracting insights from extensive user behavioural data with machine learning techniques .
+- Employed Python to conduct data mining and modelling, leveraging data systems such as SQL, Elastic search, and cloud platforms to execute data query and processing tasks.
 - Leveraged Python, R, and Excel to create sophisticated data visualizations, ensuring the clear comprehension of intricate insights by non-technical stakeholders and facilitating informed, data-backed decision-making.
 
 >**Qingdao Inter-Credit Services Pte Co., Ltd., Internal Control Center**, Qingdao, China, Mar 2019 - Oct 2020 <br>
