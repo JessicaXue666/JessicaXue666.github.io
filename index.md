@@ -9,7 +9,7 @@ title: Qiaoyun XUE's homepage
 
 Email: [xueqiaoyunzbb@163.com](mailto:xueqiaoyunzbb@163.com) 
 
-<a href="https://www.zhihu.com/people/shen-ji-xiao-cai-ji/posts"><img src="asset/zhihu.png" alt="zhihu" width="20"></a>
+<a href="https://www.zhihu.com/people/shen-ji-xiao-cai-ji/posts"><img src="asset/zhihu.png" alt="zhihu" width="20"></a>  <b href="https://github.com/JessicaXue666?tab=repositories"><img src="asset/GitHub-Logo.png" alt="GitHub" width="40"></b>
 
 **Big Data Engineer**, Department of Smart-technology, Hisense Group 
 
