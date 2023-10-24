@@ -16,7 +16,7 @@ Email: [xueqiaoyunzbb@163.com](mailto:xueqiaoyunzbb@163.com)
 
 
 ## Short Bio
-I am looking for a doctoral opportunity in **machine learning**,**Deep learning**,**Internet of Things (IoT)** and **FinTech**. I am a person who enjoys research and has a spirit of exploration. When I discover something new in my research, I feel really excited. I have self-motivation and problem-solving abilities. During my university years, I self-studied and passed multiple ACCA exams, always committed to learning and continuously improving myself. 
+I am looking for a doctoral opportunity in **machine learning**,**Deep learning**,**Internet of Things (IoT)** and **FinTech**. 
 
 ## Education
 >**University of Glasgow(QS Ranking 81), Glasgow, UK**  	                  , Jan 2021 - Apr 2022
@@ -36,10 +36,10 @@ I am looking for a doctoral opportunity in **machine learning**,**Deep learning*
 - Qiaoyun Xue, Daiwei Ruan, Guoxuan Zhang. Comparison of different machine learning algorithms for predicting air-conditioning operation modes  (in preparation)
 
 >**Patents**
-- CN202310936682.6 **An air conditioning control system and its control method (Pending)** Qiaoyun Xue, Daiwei Ruan, Zhaoting Ren et al. A machine learning based controller method to realize automatic entering and exiting functional scenarios, providing users with a more intelligent and comfortable home experience. [PDF](asset/Patents-20230921/CN202310936682.6/H2023HH00316CN+递交稿.pdf)
+- CN202310936682.6 **An air conditioning control system and its control method (Pending)** Qiaoyun Xue, Daiwei Ruan, Zhaoting Ren et al. A machine learning-based controller method to realize automatic entering and exiting functional scenarios, providing users with a more intelligent and comfortable home experience. [PDF](asset/Patents-20230921/CN202310936682.6/H2023HH00316CN+递交稿.pdf)
 - CN202211679156.8 **A positioning system and positioning method for an air conditioning device (Under Examination)** Guoxuan Zhang, Qiaoyun Xue. A method to obtain the relative position information of the indoor unit, outdoor unit, and central controller of an on-site air conditioning system by using Bluetooth module RSSI ranging, triangulation positioning, and DBSCAN clustering algorithm. [PDF](asset/Patents-20230921/CN202211679156.8/H2022HH00381CN+递交稿.pdf)
 - CN202310962564.2  **A Control Method for a Central Controller and Air Conditioning System (Pending)** Daiwei Ruan, Qiaoyun Xue, Zhaoting Ren et al. The present invention offers a control method for a central controller and a smart air conditioning system, addressing the issue of manual settings and enhancing users' intelligent and convenient experiences. [PDF](asset/Patents-20230921/CN202310962564.2/H2023HH00341CN+递交稿.pdf)
-- CN202310623117.4  **An air conditioning smart control system and its control method (Pending)** Guoxuan Zhang, Zhaopeng Sun, Qiaoyun Xue. Achieved the human-sensing function by UWB pulse between base station, indoor unit and the terminal. [PDF](asset/Patents-20230921/CN202310623117.4/H2023HH00174CN+递交稿.pdf)
+- CN202310623117.4  **An air conditioning smart control system and its control method (Pending)** Guoxuan Zhang, Zhaopeng Sun, Qiaoyun Xue. Achieved the human-sensing function by UWB pulse between the base station, indoor unit and the terminal. [PDF](asset/Patents-20230921/CN202310623117.4/H2023HH00174CN+递交稿.pdf)
 - CN202310960242.4  **A Control Method for Cloud Server and Air Conditioning System (Pending)** Daiwei Ruan, Tiejun Sun, Zhaoting Ren, Qingming Liu, Dongyao Li, Qiaoyun Xue. This invention discloses a control method for cloud servers and air conditioning systems addressing the issue of low accuracy in predicting user settings using the RNN model. [PDF](asset/Patents-20230921/CN202310960242.4/H2023HH00343CN+递交稿.pdf)
 - CN202311147412.3  **An air conditioning device（Pending）** Daiwei Ruan, Tiejun Sun, Zhaoting Ren, Dongyao Li, Qiaoyun Xue, Qingming Liu. The invention relates to the field of machine learning technology and intelligent air conditioning control technology, in particular to a method for predicting the indoor ambient temperature by using Transformer model. [PDF](asset/Patents-20230921/CN202311147412.3/H2023HH00367CN-递交稿.pdf)
 - CN202311064201.3 **The invention relates to an air conditioning control system and a control method (Pending)** Daiwei Ruan, Ruizhen Xu, Qiaoyun Xue, et al. The algorithm is based on the Internet of Things technology and cloud platform big data technology to collect user usage habits data and indoor and outdoor environmental parameters, using machine learning models to achieve user-set temperature, wind speed, mode prediction and automatic adjustment of air conditioning. [PDF](asset/Patents-20230921/CN202311064201.3/H2023HH00317CN+递交稿.pdf)
@@ -61,22 +61,22 @@ I am looking for a doctoral opportunity in **machine learning**,**Deep learning*
 ## Work Experiences
 >**Hisense Home Appliances Group Co., Ltd., Smart-technology Department**, Qingdao, China, Aug 2021 - Present<br>
 >Big Data Engineer
-- Using Pytorch and TensorFlow to construct a neural network model to develop a smart air-conditioner							                      
-- Offered data-driven support for product development and operations via analyzing and extracting insights from extensive user behavioural data with machine learning techniques .
+- Using machine learning structures like sci-kit-learn and deep learning structures like Pytorch and TensorFlow to construct models to develop a smart air-conditioner.							                      
+- Offered data-driven support for product development and operations via analyzing and extracting insights from extensive user behavioural data with machine learning techniques.
 - Employed Python to conduct data mining and modelling, leveraging data systems such as SQL, Elastic search, and cloud platforms to execute data query and processing tasks.
 - Leveraged Python, R, and Excel to create sophisticated data visualizations, ensuring the clear comprehension of intricate insights by non-technical stakeholders and facilitating informed, data-backed decision-making.
 
 >**Qingdao Inter-Credit Services Pte Co., Ltd., Internal Control Center**, Qingdao, China, Mar 2019 - Oct 2020 <br>
 Data Analysis Specialist                                                                                                                                          
 - Conducted data analysis with processing tools, such as numpy, pandas, and matplotlib in Python alongside SQL databases and Excel.
-- Maintained weekly and monthly reports: extracted relevant data from the corporate data systems or SQL databases, performed statistical modeling and multi-dimensional comparative analyses.
-- Trained robust data analysis and processing skills, risk assessment and control capability, modeling abilities, and enhanced teamwork and problem-solving skills.
+- Maintained weekly and monthly reports: extracted relevant data from the corporate data systems or SQL databases, and performed statistical modelling and multi-dimensional comparative analyses.
+- Trained robust data analysis and processing skills, risk assessment and control capability, modelling abilities, and enhanced teamwork and problem-solving skills.
 
 >**Shandong Desheng Certified Public Accountants Firm Co., Ltd., auditing department**, Qingdao, China, May 2018 - Mar 2019<br>
 Audit Assistant																	         
 - Led the collection of audit materials, carrying out spot checks on vouchers and compiling audit reports
 - Participated in external audits, including Sunac China Holdings Limited, Adidas's big contract factory, and Qingdao West Coast Cultural Tourism Group Co., Ltd.
-- Honed my meticulousness, ability to work in a high-pressure envioronment, sensitivity to data, and auditing skills.
+- Honed my meticulousness, ability to work in a high-pressure environment, sensitivity to data, and auditing skills.
 
 ## Awards & Activities
 - Second Prize, Southwest Division of the National Market Research Competition in Statistics.                                         
@@ -90,6 +90,9 @@ Audit Assistant
 - Other skills: Driving/Microsoft Office/Photoshop/VUE/X-mind/Visio
 - Standard English Test Scores: PTE Overall 64 (Speaking 72, Writing 65, Reading 62, Listening 61) / IELTS Overall 6 (Speaking 6, Writing 6, Reading 6, Listening 6)
 - Hobbies: Swimming(best record: 100m in 2 mins)/Badminton (Participated in the provincial badminton competition)/Singing/Dancing
+
+## Projects
+-
 
 
 
