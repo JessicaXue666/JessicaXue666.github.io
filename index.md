@@ -15,9 +15,6 @@ Email: [xueqiaoyunzbb@163.com](mailto:xueqiaoyunzbb@163.com)
 **Big Data Engineer**, Department of Smart-technology, Hisense Group 
 
 
-## Short Bio
-I am looking for a doctoral opportunity in **machine learning**,**Deep learning**,**Internet of Things (IoT)** and **FinTech**. 
-
 ## Education
 >**University of Glasgow(QS Ranking 81), Glasgow, UK**  	                  , Jan 2021 - Apr 2022
 - Master of Science in Data Analysis
